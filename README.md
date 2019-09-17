@@ -2,7 +2,9 @@
 ## Hadoop and Spark
 
 1. Word Count in Java
-   - Design and Implement an efficient java code to determine 100 most frequent/repeated words in a given dataset. The objective here is to     obtain the result with the least possible execution Time.
+   - Design and Implement an efficient java code to determine 100 most frequent/repeated words in a given dataset. The objective here is to obtain the result with the least possible execution Time.
+   
+   [Source Code](https://github.com/nilay18/Big-Data-Beginner/tree/master/Part_1)
 2. Word Count using Apache Hadoop and Map-Reduce Approach.
    - Determine 100 most frequent/repeated words in the given dataset considering only the words having more than 3 characters using both        MapReduce and Hive.
 3. Parsing huge .xml file using Apache Spark.
