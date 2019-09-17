@@ -1,6 +1,13 @@
-# Introduction to Big Data
-## Hadoop and Spark
+# Big data processing using Apache Hadoop and Spark.
+## Technology Stack
+   * Apache Hadoop
+   * Apache Spark
+   * HiveQL (HQL)
+   * Map Reduce
+   * Java 1.8
+   * Python 3
 
+## Content
 1. Word Count in Java
    - Design and Implement an efficient java code to determine 100 most frequent/repeated words in a given dataset. The objective here is to obtain the result with the least possible execution Time.
    
